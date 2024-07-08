@@ -7,7 +7,7 @@ Computer Hardware Business Company AtliQ Technologies facing challenges in the d
 # Domain 
 Sales 
 
-# Tools 🛠
+# Tools 
 MySQL, Power BI
 
 # Concluion 
